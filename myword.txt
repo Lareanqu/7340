@@ -67,3 +67,4 @@ nb
 无界版图
 纺织工
 纺织工人
+stable diffusion
