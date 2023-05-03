@@ -10,3 +10,4 @@ nijijourney v5
 Stable-Diffusion
 novel ai
 Artstation
+Stable Diffusion
