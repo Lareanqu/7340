@@ -1,4 +1,4 @@
-Stable Diffusion
+Artstation
 Disco Diffusion
 niji・journey
 RTX4060
@@ -9,8 +9,7 @@ Midjourney V5
 nijijourney v5
 Stable-Diffusion
 novel ai
-Artstation
-Stable Diffusion
 art station
 stable-diffusion
-stable diffusion
+Mid journey
+Stable Diffusion
