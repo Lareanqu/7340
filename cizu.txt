@@ -12,3 +12,5 @@ novel ai
 Artstation
 Stable Diffusion
 art station
+stable-diffusion
+stable diffusion
